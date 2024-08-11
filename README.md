@@ -3,9 +3,8 @@
 
 ![](https://media.licdn.com/dms/image/v2/C4D16AQGfvQ8T4IO8TQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1661629299607?e=1729123200&v=beta&t=Dgdom2T9Kg0bT4o4DYwFuT-BaJdwS0fMh5z-zWKaphg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaker356&label=Profile%20views&color=0e75b6&style=flat" alt="shaker356" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaker356" alt="shaker356" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaker356&label=Profile%20views&color=0e75b6&style=flat" alt="shaker356" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
